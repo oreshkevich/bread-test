@@ -235,6 +235,10 @@ button {
   height: 400px;
 }
 
+.nav__icons-list:hover {
+  color: #F15B40
+}
+
 @media (max-width: 926px) {
   .order__card {
     padding-left: 0;
